@@ -1,0 +1,18 @@
+.todo-card{
+  border: 1px solid black;
+  margin: 20px;
+}
+.todo-content{
+  margin: 1rem;
+}
+
+.archive-button{
+  margin-left: 50px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.add-todo{
+  display: flex;
+  gap: 10px;
+}
